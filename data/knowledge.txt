@@ -1,0 +1,63 @@
+Pasi Ketansai 
+MEng in Industrial Informatics 
+Hochschule Emden-Leer 
+The reason why I chose to study MEng in Industrial Informatics at Hochschule Emden-Leer is that my 
+academic and professional interests have shifted towards the traditional mechanical systems to integrated and 
+intelligent technologies. My Mechanical Engineering degree, with a minor in Computer Science, gave me a 
+keen interest in integrating physical systems with data-driven solutions. This orientation was supported by my 
+capstone project on real-time predictive maintenance with machine learning, during which I dealt with sensor 
+data and developed analytical models. Furthermore, my current role as a Junior AI Engineer at Valentius 
+Kryptix has allowed me to build and deploy enterprise Retrieval-Augmented Generation (RAG) pipelines and 
+autonomous AI agents, while working with LLM APIs, semantic search, vector-index structures, and context 
+engineering. My internship at Hindustan Shipyard and my experience at RDC Concrete also introduced me to 
+automation, PLC systems, and Industry 4.0. Although these experiences reinforced my practical knowledge, 
+they also revealed that I needed more theoretical knowledge in the area of system integration and intelligent 
+control, which led me to continue my studies in this area. 
+My studies in Mechanical Engineering at MVGR College of Engineering and a minor in Computer Science 
+have enabled me to acquire a solid interdisciplinary base. I developed analytical and computational skills 
+through coursework in thermodynamics, machine design, CAD/CAM, data structures, and database systems. 
+I used this knowledge in various projects, such as an IoT-based smart traffic management system with 
+OpenCV, and an industry project at Hindustan Shipyard, where I optimised a rod gearing mechanism, 
+increasing the efficiency by 20%. My capstone project on real-time predictive maintenance further reinforced 
+my interest in intelligent systems, where I used sensor data and a LightGBM model to predict machine health. 
+Also, my study of alcoholic fuel blends in VCR diesel engines helped me to understand performance analysis 
+and sustainability better. All these experiences are indicative of my capacity to combine theory and practical, 
+real-world problem-solving. 
+All of my internships, certifications, and leadership experience have contributed to my interdisciplinary 
+approach to engineering and technology. My experience at Hindustan Shipyard Limited helped me to enhance 
+my practical design skills as I was tasked with designing a bilge system mechanism and increasing operational 
+efficiency by 20%. I was exposed to automated systems with PLCs and HMI interfaces at RDC Concrete and 
+worked on a computer vision-based prototype, where I realised my shortcomings in system-level integration. 
+In my current role as a Junior AI Engineer at Valentius Kryptix, I have further strengthened my understanding 
+of intelligent computational systems by working on production-grade RAG pipelines, autonomous AI agents, 
+semantic search workflows, and LLM-based applications. This experience has improved my understanding of 
+how intelligent software components can be designed and integrated into real-world systems, while also 
+making me interested in how similar intelligent technologies can be applied to industrial environments. 
+Previous work in Exposys Data Labs and Smartbridge exposed me to web development and enterprise 
+automation tools. Also, my additive manufacturing, Python, and design tools certifications, as well as my 
+work as a Placement Representative, helped me develop my technical and organisational skills. The 
+experiences have inspired me to undertake an MEng in Industrial Informatics to gain more knowledge in 
+intelligent systems and automation. 
+An MEng in Industrial Informatics will enable me to enhance my knowledge in the field of mechanical systems 
+and intelligent computing. The essential courses like Robotic Systems, Industrial Internet of Things, 
+Innovation Engineering, and many others will prepare me to design and optimise smart industrial processes. 
+The program will help me bridge the knowledge gap between intelligent computing and industrial system 
+integration, enabling me to develop strong, scalable, and efficient solutions for current industrial applications 
+In the near future, I would like to be employed as an Automation Systems Engineer or Industrial Informatics 
+Engineer in companies like Siemens or Bosch, specialising in intelligent manufacturing and Industry 4.0 
+systems. I intend to go back to India in the long run to work on the higher automation systems, either in the 
+top companies such as SICK or in my own business in industrial automation. 
+The selection of Germany is in line with my objective of specialising in industrial informatics in a system that 
+focuses on precision engineering and applied research. Companies such as Siemens and Bosch support the 
+Industry 4.0 ecosystem in Germany, which offers a first-hand experience of advanced automation, embedded 
+systems, and smart manufacturing, which is why it is the ideal place to apply my interdisciplinary skills to 
+practical, industry-ready solutions. 
+I am justified in selecting Hochschule Emden/Leer due to its high practice-based environment and closeness 
+to the industry. I would particularly like to collaborate with the Institute of Applied Photogrammetry and 
+Geoinformatics (IAPG) and the Centre of Wind Energy Research (ForWind), which are typical of the applied 
+research culture of the university. Also, I will be able to work in student-led organisations such as the AStA 
+(General Students’ Committee) to enhance collaboration and leadership skills in addition to my academic 
+development. 
+I believe that pursuing my studies at Hochschule Emden/Leer will help me develop my technical skills and 
+practical knowledge, become a competent professional and make my contribution to the development of 
+intelligent industrial systems. 
